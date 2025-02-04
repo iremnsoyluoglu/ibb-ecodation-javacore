@@ -5,3 +5,15 @@
 [Git](https://git-scm.com/downloads)
 
 # Java Core
+git init
+git add .
+git commit -m "add message"
+git push -u origin master
+
+git clone  https://github.com/hamitmizrak/ibb_ecodation_javacore.git
+git init
+git add .
+git commit -m "add message"
+git push -u origin master
+
+git clone  https://github.com/hamitmizrak/ibb_ecodation_javacore.git
