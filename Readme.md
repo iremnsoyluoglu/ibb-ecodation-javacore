@@ -10,10 +10,10 @@ git add .
 git commit -m "add message"
 git push -u origin master
 
-git clone  https://github.com/hamitmizrak/ibb_ecodation_javacore.git
+git clone  https://github.com/iremnsoyluoglu/ibb-ecodation-javacore
 git init
 git add .
 git commit -m "add message"
 git push -u origin master
 
-git clone  https://github.com/hamitmizrak/ibb_ecodation_javacore.git
+
